@@ -11,3 +11,4 @@ __Availables Features__
 > - Restock per File
 > - In french (need to translate but i'm lazy for moment)
 > - Using only 2 libs other than basic nodejs libs
+
