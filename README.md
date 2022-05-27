@@ -2,7 +2,7 @@
 This bot is made to give items automatique to members
 
 
-I release the source at 50stars
+
 
 __Availables Features__
 > - see available stock 
@@ -12,3 +12,4 @@ __Availables Features__
 > - In french (need to translate but i'm lazy for moment)
 > - Using only 2 libs other than basic nodejs libs
 
+**I release the source at 50stars**
